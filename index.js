@@ -1,1 +1,1 @@
-(function() { console.log('module-one'); })()
+(function() { console.log('module-one, hello world'); })()
